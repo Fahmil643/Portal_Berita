@@ -13,6 +13,10 @@ Sistem Web Portal Berita Fullstack berperforma tinggi, SEO-friendly, dan respons
 - **CMS Redaksi (Django Admin)**: Panel administrasi bawaan Django untuk menginput, mempublikasikan, dan mengelola berita secara visual.
 
 ---
+<img width="1848" height="906" alt="Screenshot 2026-08-05 111012" src="https://github.com/user-attachments/assets/66f67538-cbcc-4b36-b55d-f2ec464cd45e" />
+
+<img width="1297" height="802" alt="Screenshot 2026-08-05 111038" src="https://github.com/user-attachments/assets/ed8841d9-939d-470b-9164-90556df45093" />
+
 
 ## 🛠️ Cara Menjalankan Proyek
 
